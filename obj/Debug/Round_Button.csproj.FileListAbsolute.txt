@@ -1,0 +1,2 @@
+C:\Users\Omar\source\repos\Round_Button\obj\Debug\Omar_Library.Properties.Resources.resources
+C:\Users\Omar\source\repos\Round_Button\obj\Debug\Round_Button.csproj.GenerateResource.cache
